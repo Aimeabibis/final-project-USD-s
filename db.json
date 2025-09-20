@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Jokebed",
+      "activities": []
+    },
+    {
+      "id": "7486",
+      "name": "Katya",
+      "password": "bibis",
+      "email": "kat@gmail.com",
+      "role": "user"
+    }
+  ],
+  "activities": [
+    {
+      "id": "1",
+      "userId": "1",
+      "type": "Cardio",
+      "duration": 30,
+      "date": "2025-09-01"
+    },
+    {
+      "id": "34e9",
+      "userId": "7486",
+      "type": "Yoga",
+      "duration": 60,
+      "date": "2025-09-10"
+    },
+    {
+      "id": "82fe",
+      "userId": "1",
+      "type": "Natation",
+      "duration": 20,
+      "date": "2025-09-09"
+    },
+    {
+      "type": "Cardio",
+      "duration": 20,
+      "date": "2025-09-12",
+      "id": "ShRWlF2"
+    }
+  ],
+  "rules": {
+    "users": 660,
+    "activities": 644
+  }
+}
